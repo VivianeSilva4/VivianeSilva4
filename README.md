@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Viviane Silva
 
--🐼 Desenvolvedora em formação  
+-🐼 Desenvolvedora FullStack em formação  
 -🐘 Estudando *Angular, TypeScript e Spring Boot*  
 -🐦‍🔥 Conhecimentos em *HTML5, CSS3, Java, SQL*  
 -🐋 Apaixonada por tecnologia e aprendizado contínuo  
