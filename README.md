@@ -7,7 +7,7 @@
 -🍉 Pronouns: ela/dela
 
 
----
+
 
 ### *Minhas estatísticas no GitHub*
 
@@ -18,7 +18,7 @@
   </a>
 </div>
 
----
+
 
 ### *Tecnologias que uso no dia a dia*
 
@@ -32,7 +32,7 @@
   <img align="center" alt="Viviane-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
----
+
 
 ### *Onde me encontrar*
 
